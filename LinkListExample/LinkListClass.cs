@@ -47,13 +47,17 @@ class LinkListClass{
     }
 
     public void ReverseList(){
+        // If head is null or there is just one node, just return
         if(head == null || head.Next == null)
             return;
         
+        // Tke 3 nodes back, mid and front
         Node back = null;
         Node mid = head;
         Node front = head.Next;
 
+        // while front does not reach null break mid next and point to back
+        // we are assuming there is no cycle
         while(front != null){
             mid.Next = back;
             back = mid;
@@ -61,6 +65,7 @@ class LinkListClass{
             front = front.Next;
         }
 
+        // mid still points to null so point it to back and make head point to mid
         mid.Next = back;
         head = mid;
     }
