@@ -46,6 +46,25 @@ class LinkListClass{
         Console.WriteLine("NULL");
     }
 
+    public void ReverseList(){
+        if(head == null || head.Next == null)
+            return;
+        
+        Node back = null;
+        Node mid = head;
+        Node front = head.Next;
+
+        while(front != null){
+            mid.Next = back;
+            back = mid;
+            mid = front;
+            front = front.Next;
+        }
+
+        mid.Next = back;
+        head = mid;
+    }
+
 
 
 
