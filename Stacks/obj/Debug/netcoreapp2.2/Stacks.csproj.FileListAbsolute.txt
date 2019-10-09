@@ -1,0 +1,11 @@
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/bin/Debug/netcoreapp2.2/Stacks.deps.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/bin/Debug/netcoreapp2.2/Stacks.runtimeconfig.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/bin/Debug/netcoreapp2.2/Stacks.runtimeconfig.dev.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/bin/Debug/netcoreapp2.2/Stacks.dll
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/bin/Debug/netcoreapp2.2/Stacks.pdb
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.csprojAssemblyReference.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.csproj.CoreCompileInputs.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.AssemblyInfoInputs.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.AssemblyInfo.cs
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.dll
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/Stacks/obj/Debug/netcoreapp2.2/Stacks.pdb

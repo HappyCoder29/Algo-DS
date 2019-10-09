@@ -8,6 +8,8 @@ class LinkListClass{
     }
 
 
+
+
     //Adds Node to the head of the Link List
     public void AddHeadNode(int data){
         Node add = new Node(data);
@@ -70,7 +72,5 @@ class LinkListClass{
         head = mid;
     }
 
-
-
-
+    ]
 }
