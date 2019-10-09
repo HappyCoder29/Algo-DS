@@ -55,7 +55,5 @@ class Stack<T>{
             temp = temp.Next;
         }
         return count;
-
-
     }
 }
