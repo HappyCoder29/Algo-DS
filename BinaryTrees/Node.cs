@@ -4,6 +4,8 @@ class Node<T>{
     public T data { get; set; }
     public Node<T> Left { get; set; }
     public Node<T> Right { get; set; }
+    
+    public Node<T> Parent { get; set; }
 
     private Node(){}
 
@@ -11,6 +13,7 @@ class Node<T>{
         this.data = data;
         this.Left = null;
         this.Right = null;
+        this.Parent = null;
     }
 
 }
