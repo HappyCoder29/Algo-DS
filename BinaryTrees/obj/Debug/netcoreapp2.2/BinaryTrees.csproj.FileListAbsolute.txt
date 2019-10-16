@@ -1,0 +1,11 @@
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/bin/Debug/netcoreapp2.2/BinaryTrees.deps.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/bin/Debug/netcoreapp2.2/BinaryTrees.runtimeconfig.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/bin/Debug/netcoreapp2.2/BinaryTrees.runtimeconfig.dev.json
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/bin/Debug/netcoreapp2.2/BinaryTrees.dll
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/bin/Debug/netcoreapp2.2/BinaryTrees.pdb
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.csprojAssemblyReference.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.csproj.CoreCompileInputs.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.AssemblyInfoInputs.cache
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.AssemblyInfo.cs
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.dll
+/Users/ashish/Documents/Fall2019-DataStructures/LinkList/Algo-DS/BinaryTrees/obj/Debug/netcoreapp2.2/BinaryTrees.pdb
